@@ -1,4 +1,4 @@
-package kata4.model.persistence;
+package kata4.view;
 
 import kata4.model.Mail;
 import java.io.BufferedReader;
@@ -8,8 +8,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class MailListReader {
 
